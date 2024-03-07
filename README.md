@@ -1,16 +1,19 @@
 ### Hi there 👋
+I am Wanqiu. 
+- 💻 Software engineer sharing about my jouney and learning in tech.
+- 🌱 Studying Ed.S. in Ed tech and design at the University of Missouri.
+- 📚 Advocate of life long learning.
 
-<!--
-**wanqiuraymer/WanqiuRaymer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr style="border:2px solid blue">  
+### 🧰 Languages and Tools:
 
-Here are some ideas to get you started:
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+![Wanqiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanqiuraymer&theme=date_night&show_icons=true)
