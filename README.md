@@ -30,7 +30,3 @@ I am Wanqiu.
 
 ---
 
-### 📊 Stats:
-
-
-![Wanqiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanqiuraymer&theme=date_night&show_icons=true)
